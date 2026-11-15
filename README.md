@@ -1,6 +1,6 @@
-# Shkola-SOlNCe
-Сайт школы СОлНЦе казанское солнце
-# МАОУ СОШИ СОлНЦе
+# МАОУ СОШИ СОлНЦе — Официальный интерфейс
+
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -540,6 +540,5 @@
     </script>
 </body>
 </html>
-
 
 
